@@ -1463,8 +1463,8 @@ button:focus {
 }
 
 .featured_info .slick-slide {
-  padding-top: 12px;
-  padding-bottom: 65px;
+  /* padding-top: 12px;
+  padding-bottom: 65px; */
 }
 
 .slick-dotted.slick-slider {
@@ -1520,6 +1520,7 @@ button:focus {
   -webkit-transition: all 0.2s linear;
   -o-transition: all 0.2s linear;
   transition: all 0.2s linear;
+  height: 350px;
 }
 
 .featured_item .icon {
